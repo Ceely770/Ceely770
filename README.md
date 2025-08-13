@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ceely770/Ceely770/main/A_digital_graphic_design_banner_features_a_profess.png" alt="Profile banner" width="900" style="max-width:100%; height:auto;">
+  <img src="https://raw.githubusercontent.com/Ceely770/Ceely770/main/A_digital_graphic_design_banner_features_a_profess.png" alt="Ceely banner" width="900">
 </p>
 
-- 👋# Hi, I’m Ceely 👋
+# Hi, I’m Ceely 👋
 
-**Global security & cybersecurity graduate student | Python learner | Policy & tech bridge-builder**
+-**Global security & cybersecurity graduate student | Python learner | Policy & tech bridge-builder**
 
 I’m pursuing my Master’s in Global Security & Cybersecurity with a focus on policy,  
 and I’m building strong technical skills in Python to complement my work in governance, law, and international security.  
