@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ceely770/Ceely770/main/A_digital_graphic_design_banner_features_a_profess.png" alt="Profile banner" width="900"/>
+  <img src="https://raw.githubusercontent.com/Ceely770/Ceely770/main/A_digital_graphic_design_banner_features_a_profess.png" alt="Profile banner" width="900" style="max-width:100%; height:auto;">
 </p>
 
 - 👋# Hi, I’m Ceely 👋
