@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ceely770/Ceely770/blob/main/Github_banner3b64f088-0bd7-4195-b975-98d55a90dc78.png" alt="Ceely banner" width="300">
+  <img src="https://github.com/Ceely770/Ceely770/blob/main/Github_banner3b64f088-0bd7-4195-b975-98d55a90dc78.png" alt="Ceely banner" width="500">
 </p>
 
 # Hi, I’m Ceely 👋
