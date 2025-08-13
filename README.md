@@ -1,3 +1,4 @@
+![Profile banner](your-image-link-here)
 - 👋# Hi, I’m Ceely 👋
 
 **Global security & cybersecurity graduate student | Python learner | Policy & tech bridge-builder**
