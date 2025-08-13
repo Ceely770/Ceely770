@@ -1,4 +1,7 @@
-![Profile banner](https://github.com/Ceely770/Ceely770/blob/main/Github_banner3b64f088-0bd7-4195-b975-98d55a90dc78.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ceely770/Ceely770/main/A_digital_graphic_design_banner_features_a_profess.png" alt="Profile banner" width="900"/>
+</p>
+
 - 👋# Hi, I’m Ceely 👋
 
 **Global security & cybersecurity graduate student | Python learner | Policy & tech bridge-builder**
